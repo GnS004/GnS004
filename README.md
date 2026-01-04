@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=250&section=header&text=Garima%20Srivastava&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=Data%20Scientist%20•%20Business%20Analyst%20•%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=250&section=header&text=Garima%20Srivastava&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=%20Business%20Analysis%20•Data%20Science%20•%20Machine%20Learning%20&descAlignY=55&descAlign=50)
 
 <div align="center">
   
