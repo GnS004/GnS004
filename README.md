@@ -232,10 +232,6 @@ class DataScientist:
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=c0c0c0&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30&fontColor=000000&animation=fadeIn" />
-</p>
-
 <div align="center">
   
 ### 🌟 "Turning data into insights, insights into impact" 🌟
