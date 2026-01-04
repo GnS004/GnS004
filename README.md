@@ -200,7 +200,7 @@ class DataScientist:
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/garima-srivastava">
+  <a href="https://www.linkedin.com/in/garima-srivastava-32431a21a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:garimasrivastava.work.in@gmail.com">
