@@ -19,6 +19,7 @@
 <td width="50%">
 
 ### 🌟 Quick Facts
+Hello! 
 
 I'm a **Data Science Enthusiast** and **Business Analyst Intern** at Lettrblack, focused on extracting insights from data and building intelligent ML systems. Currently pursuing my Bachelor's in Computer Applications, Majoring in Data Science & AI.
 
