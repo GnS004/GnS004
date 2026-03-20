@@ -1,18 +1,22 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=250&section=header&text=Garima%20Srivastava&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=%20Business%20Analysis%20•Data%20Science%20•%20Machine%20Learning%20&descAlignY=55&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:060810,40:0c0e18,70:131525,100:1a1a2e&height=250&section=header&text=Garima%20Srivastava&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=%20Data%20•%20Analytics%20•%20Machine%20Learning%20&descAlignY=55&descAlign=50)
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Data+Science+Enthusiast+📊;Machine+Learning+Explorer+🤖;Building+Intelligent+Solutions+💡)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Data+Enthusiast+📊;Machine+Learning+Explorer+🤖;Building+Intelligent+Solutions+💡)
+
+![Status](https://img.shields.io/badge/%E2%97%8F%20AVAILABLE-Open%20to%20Internships%20%26%20Full--time-4ecdc4?style=flat-square&labelColor=060810&color=ffffff)&nbsp; 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GnS004&label=Profile%20Views&color=1f2937&style=flat-square)](https://github.com/GnS004)
 [![GitHub Followers](https://img.shields.io/github/followers/GnS004?label=Followers&style=flat-square&color=374151)](https://github.com/GnS004?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/GnS004?label=Total%20Stars&style=flat-square&color=374151)](https://github.com/GnS004)
 
+![](https://img.shields.io/badge/11-TOTAL%20PROJECTS-ffffff?style=for-the-badge&labelColor=1f2937)  ![](https://img.shields.io/badge/0.85-BEST%20R²%20SCORE-ffffff?style=for-the-badge&labelColor=1f2937)  ![](https://img.shields.io/badge/TOP%2020-IIT%20KGP%20HACKATHON-ffffff?style=for-the-badge&labelColor=1f2937)  ![](https://img.shields.io/badge/7.9-CGPA%20%2F%2010.0-ffffff?style=for-the-badge&labelColor=1f2937) 
+
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Who Am I?
 
 <table>
 <tr>
@@ -21,12 +25,10 @@
 ### 🌟 Quick Facts
 Hello! 
 
-I'm a **Data Science Enthusiast** and **Business Analyst Intern** at Lettrblack, focused on extracting insights from data and building intelligent ML systems. Currently pursuing my Bachelor's in Computer Applications, Majoring in Data Science & AI.
+I'm a **Data & Analytics Enthusiast** and a final-year student of BCA, focused on extracting insights from data and building intelligent ML systems. 
 
 🌱 Learning **Advanced ML**, **ETL Pipelines**, and **Deep Learning**  
 🏆 **IIT Kharagpur Data Science Hackathon Pre-Finalist** (Top 20/800+)  
-🤝 Looking for **Data Science/ML internships opportunities**  
-📍 Based in **Lucknow, Uttar Pradesh, India**
 
 </td>
 <td width="50%">
@@ -46,7 +48,7 @@ class DataScientist:
             "languages": ["Python", "C++", "SQL", "HTML", "CSS"],
             "ml_frameworks": ["Scikit-learn", "TensorFlow", "PyTorch"],
             "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "visualization": ["Tableau", "IBM Cognos", "Excel"],
+            "visualization": ["Tableau", "IBM Cognos", "Excel", "PowerPoint"],
             "expertise": ["ETL", "Feature Engineering", "Model Deployment"]
         }
     
@@ -113,33 +115,61 @@ class DataScientist:
 </table>
 
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis Portfolio
+> **[`⌥ GnS004/data-analysis-portfolio →`](https://github.com/GnS004/data-analysis-portfolio)**
+
+End-to-end analysis — EDA, statistical modeling, BI dashboards & visual storytelling.
+
+**Pipeline:** `raw data` → `stakeholder-ready insights`
+
+![DA](https://img.shields.io/badge/Data%20Analyst-ffffff?style=flat-square&labelColor=131525) ![BA](https://img.shields.io/badge/Business%20Analyst-ffffff?style=flat-square&labelColor=131525) ![BI](https://img.shields.io/badge/BI%20Analyst-ffffff?style=flat-square&labelColor=131525) ![RA](https://img.shields.io/badge/Research%20Analyst-ffffff?style=flat-square&labelColor=131525)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ML & AI Portfolio
+> **[`⌥ GnS004/ml-ai-portfolio →`](https://github.com/GnS004/ml-ai-portfolio)**
+
+Supervised learning, computer vision & model explainability with SHAP.
+
+**Workflow:** `data prep` → `feature eng` → `training` → `SHAP`
+
+![DS](https://img.shields.io/badge/Data%20Scientist-ffffff?style=flat-square&labelColor=0c1a18) ![MLE](https://img.shields.io/badge/ML%20Engineer-ffffff?style=flat-square&labelColor=0c1a18) ![AI](https://img.shields.io/badge/AI%20Research-ffffff?style=flat-square&labelColor=0c1a18)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📈 GitHub Analytics & Achievements
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GnS004&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=1f2937" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=GnS004&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&border=1f2937" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=GnS004&theme=github-dark&hide_border=true&area=true&color=ffffff&bg_color=0d1117&line=ffffff&point=ffffff&custom_title=Contribution%20Graph" />
-</p>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GnS004&show_icons=true&hide_border=true&bg_color=060810&title_color=ffffff&icon_color=4ecdc4&text_color=8b91b0&ring_color=f0c060" />
+<img width="49%" src="https://streak-stats.demolab.com?user=GnS004&hide_border=true&background=060810&ring=ffffff&fire=f0c060&currStreakLabel=ffffff&sideNums=1f2937&sideLabels=ffffff&dates=5a5f7a&stroke=ffffff" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnS004&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=1f2937" />
-</p>
+<img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=GnS004&theme=github-dark&hide_border=true&area=true&color=ffffff&bg_color=060810&line=4ecdc4&point=f0c060&custom_title=Contribution%20Graph&area_color=ffffff" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnS004&layout=compact&hide_border=true&bg_color=060810&title_color=ffffff&text_color=8b91b0" />
+
+</div>
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🏢 Business Analyst Intern @ Lettrblack
-**Nov 2025 - Present** | Remote
+**Nov 2025 - Feb 2026** | Remote
 
-- 📊 Conducting data analysis and market research to identify business opportunities and trends
-- 🤝 Collaborating with cross-functional teams to gather requirements and recommend data-driven solutions
-- 📈 Creating comprehensive reports and visualizations using Excel and analytics tools
-- 💡 Delivering actionable insights to support strategic decision-making
+- 📊 Conducted exploratory data analysis and market research to identify business opportunities and trends
+- 🤝 Collaborated with cross-functional teams to gather requirements and recommend data-driven solutions
+- 📈 Created comprehensive reports and visualizations using Excel and analytics tools
+- 💡 Delivered actionable insights to support strategic decision-making
 
 ---
 
@@ -160,44 +190,35 @@ class DataScientist:
 <summary><b>🏆 Achievements & Competitions</b></summary>
 <br>
 
-🥈 **IIT Kharagpur Data Science Hackathon - Pre-Finalist (2025)**  
-   - Selected as one of 20 pre-finalists from 800+ participants
-   - Demonstrated strong problem-solving and analytical skills under time constraints
-
-🎯 **Summer Analytics Workshop - IIT Guwahati (2024)**  
-   - Completed intensive hands-on workshop covering advanced analytics techniques
-   - Covered statistical modeling and machine learning algorithms
-
-</details>
-
-<details>
-<summary><b>📜 Professional Certifications</b></summary>
-<br>
-
-✅ **Data Science 101** - IBM (2025)  
-✅ **ETL in Python and SQL** - LinkedIn Learning (2025)  
-✅ **IBM Cognos Analytics** - IBM (2024)
+| 🏆 | Achievement | Organisation | Year |
+|:--:|:------------|:-------------|:----:|
+| 🥇 | **Top 20 Pre-Finalist** — Data Science Hackathon *(800+ participants)* | IIT Kharagpur | 2025 |
+| 🎓 | **Summer Analytics Workshop** | IIT Guwahati | 2024 |
+| 🏅 | **Data Science 101** — Professional Certificate | IBM | 2025 |
+| 🔧 | **ETL in Python & SQL** — Certification | LinkedIn Learning | 2025 |
+| 📊 | **IBM Cognos Analytics** — BI Certification | IBM | 2024 |
 
 </details>
 
-<details>
-<summary><b>🔬 Core Competencies</b></summary>
-<br>
-
-- 🤖 Supervised & Unsupervised Learning
-- 📊 Regression & Classification Models
-- 🔍 Exploratory Data Analysis (EDA)
-- 🛠️ ETL & Feature Engineering
-- 📈 Model Evaluation & Deployment
-- 📉 Statistical Modeling
-- 🎨 Data Visualization & Storytelling
-- 🚀 Model Optimization & Tuning
-
-</details>
+CORE COMPETENCIES &nbsp;
+![Feature Engineering](https://img.shields.io/badge/🤖%20Feature%20Engineering-ffffff?style=flat-square&labelColor=131525)
+![Regression](https://img.shields.io/badge/📊%20Regression%20·%20Classification%20·%20Clustering-ffffff?style=flat-square&labelColor=0c1a18)
+![ETL](https://img.shields.io/badge/🛠️%20ETL%20Pipeline%20Design-ffffff?style=flat-square&labelColor=110d1a)
+![Model Eval](https://img.shields.io/badge/📈%20Model%20Eval%20&%20Hyperparameter%20Tuning-ffffff?style=flat-square&labelColor=0d1a25)
+![Stats](https://img.shields.io/badge/💡%20Statistical%20Modeling%20&%20A%2FB%20Testing-ffffff?style=flat-square&labelColor=0c1a18)
+![Viz](https://img.shields.io/badge/🎨%20Data%20Visualization%20&%20Storytelling-ffffff?style=flat-square&labelColor=131525)
+![Agile](https://img.shields.io/badge/🔍%20Agile%20Methodology-ffffff?style=flat-square&labelColor=1a0810)
+![BI](https://img.shields.io/badge/📋%20Business%20Requirements%20&%20Reporting-ffffff?style=flat-square&labelColor=110d1a)
 
 ---
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=GnS004&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## 📬 Connect With Me
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🌟 "Turning data into insights, insights into impact" 🌟
+*Open to Data · Analytics · Business · Research · ML roles &nbsp;|&nbsp; Internship & Full-time*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/garima-srivastava-32431a21a/">
@@ -212,32 +233,12 @@ class DataScientist:
   <a href="https://linktr.ee/GarimaSrivastava">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
+
+  <b>📍 Location:</b> Uttar Pradesh, India
 </p>
-
-<p align="center">
-  <b>📍 Location:</b> Uttar Pradesh 226028, India
-</p>
-
----
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/GnS004/GnS004/output/github-contribution-grid-snake-dark.svg)
-
+Feel free to explore my repositories and connect with me!
 </div>
 
----
-
-<div align="center">
-  
-### 🌟 "Turning data into insights, insights into impact" 🌟
-
-**Feel free to explore my repositories and connect with me!**
-
-[![](https://visitcount.itsvg.in/api?id=GnS004&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:131525,70:0c0e18,100:060810&height=110&section=footer&text=%C2%A9%202026%20Garima%20S%20%C2%B7%20India&fontSize=13&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
