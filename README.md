@@ -16,19 +16,23 @@
 
 ---
 
+
 ## 👩‍💻 Who Am I?
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌟 Quick Facts
 Hello! 
 
-I'm a **Data & Analytics Enthusiast** and a final-year student of BCA, focused on extracting insights from data and building intelligent ML systems. 
+I'm a **Data Analyst** with hands-on, production-style experience turning messy datasets into clear, stakeholder-ready insights - using **Python, SQL, Power BI, Tableau, and Excel**.
 
-🌱 Learning **Advanced ML**, **ETL Pipelines**, and **Deep Learning**  
-🏆 **IIT Kharagpur Data Science Hackathon Pre-Finalist** (Top 20/800+)  
+- 📊 Result-driven data analyst with **90%+ detection accuracy** and **85% predictive model performance** delivered across real-world projects
+- 💼 Completed a **Business Analyst internship** at Lettrblack - market research, competitor analysis, and dashboarding
+- 🏆 **IIT Kharagpur Data Science Hackathon** - Top 20 of 800+ participants
+- 🌱 Currently sharpening skills in **Advanced SQL, ETL pipelines, and Dashboard Design**
+- 🎯 A little bit of ML too - comfortable with Scikit-learn / TensorFlow for predictive modeling when a project calls for it
+
 
 </td>
 <td width="50%">
@@ -36,22 +40,27 @@ I'm a **Data & Analytics Enthusiast** and a final-year student of BCA, focused o
 ### 💻 Tech Stack
 
 ```python
-class DataScientist:
+class DataAnalyst:
     def __init__(self):
         self.name = "Garima Srivastava"
-        self.role = "Business Analyst Intern"
-        self.education = "BCA Student @ SRMU"
-        self.location = "Lucknow, India"
+        self.education = "Graduate"
+        self.location = "India"
         
     def get_skills(self):
         return {
-            "languages": ["Python", "C++", "SQL", "HTML", "CSS"],
-            "ml_frameworks": ["Scikit-learn", "TensorFlow", "PyTorch"],
-            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "visualization": ["Tableau", "IBM Cognos", "Excel", "PowerPoint"],
+            "languages": ["Python (Proficient)", "C++", "SQL", "HTML", "CSS"],
+            "DA_&_ML: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib",
+                      "Seaborn", "TensorFlow","Scikit-learn"],
+            "development_tools": ["Git/GitHub", "Jupyter Notebook",
+                                 "Google Colab", "VS Code"],
+            "visualization": ["Power BI", "Tableau", "IBM Cognos",
+                             "Excel (Advanced)", "PowerPoint"],
+            "database: ["MySQL", "Data Warehousing concepts", "ETL Pipelines"],
             "expertise": ["ETL", "Feature Engineering", "Model Deployment"]
+
         }
-    
+
+
     def current_focus(self):
         return "Building predictive models & analytics solutions 🚀"
 ```
@@ -59,6 +68,10 @@ class DataScientist:
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="450" alt="coding animation" />
+</p>
 
 ---
 
@@ -95,6 +108,7 @@ class DataScientist:
 
 **Data Visualization & BI**
 <p>
+   <img src="https://img.shields.io/badge/Power%20BI-ffffff?style=for-the-badge&logo=ibm&logoColor=052FAD" />
   <img src="https://img.shields.io/badge/Tableau-1f2937?style=for-the-badge&logo=tableau&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/IBM%20Cognos-ffffff?style=for-the-badge&logo=ibm&logoColor=052FAD" />
   <img src="https://img.shields.io/badge/MS%20Excel-1f2937?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" />
@@ -134,7 +148,7 @@ End-to-end analysis — EDA, statistical modeling, BI dashboards & visual storyt
 ### 🤖 ML & AI Portfolio
 > **[`⌥ GnS004/ml-ai-portfolio →`](https://github.com/GnS004/ml-ai-portfolio)**
 
-Supervised learning, computer vision & model explainability with SHAP.
+Supervised learning, computer vision & model explainability with SHAP. Learning Mode - ON
 
 **Workflow:** `data prep` → `feature eng` → `training` → `SHAP`
 
@@ -163,13 +177,10 @@ Supervised learning, computer vision & model explainability with SHAP.
 
 ## 💼 Professional Experience
 
-### 🏢 Business Analyst Intern @ Lettrblack
-**Nov 2025 - Feb 2026** | Remote
-
-- 📊 Conducted exploratory data analysis and market research to identify business opportunities and trends
-- 🤝 Collaborated with cross-functional teams to gather requirements and recommend data-driven solutions
-- 📈 Created comprehensive reports and visualizations using Excel and analytics tools
-- 💡 Delivered actionable insights to support strategic decision-making
+**Business Analyst Intern — Lettrblack** | *Sep 2025 – Feb 2026 | Remote*
+- Conducted market & competitor research, synthesizing findings into structured reports
+- Benchmarked market positioning to identify gaps and opportunities
+- Built interactive dashboards & reports in **Tableau and Excel**, presenting insights to stakeholders through data storytelling
 
 ---
 
